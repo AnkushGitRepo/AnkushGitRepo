@@ -1,6 +1,6 @@
 ### Hi there, I'm [Ankush Gupta](https://github.com/AnkushGitRepo) 👋
 
-I am Ankush Gupta, a second-year Computer Science and Information Technology student at [LJ University](https://ljku.edu.in/), Ahmedabad, India. I have a strong passion for Artificial Intelligence and Machine Learning and actively pursue projects in these fields. I regularly contribute to open-source projects and share my work on my GitHub profile.
+A second-year Computer Science and Information Technology student at [LJ University](https://ljku.edu.in/), Ahmedabad, India. I have a strong passion for Artificial Intelligence and Machine Learning and actively pursue projects in these fields. I regularly contribute to open-source projects and share my work on my GitHub profile.
 
 **My Interest**:
 - Artificial Intelligence
