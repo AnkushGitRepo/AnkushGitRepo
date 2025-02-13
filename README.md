@@ -38,7 +38,7 @@ A second-year Computer Science and Information Technology student at [LJ Univers
 #### Tools and Technologies
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.credly.com/earner/earned/badge/279d09f0-6b04-417e-82df-310670f7043a)
 ![Figma](https://img.shields.io/badge/Figma-FF6C37.svg?style=for-the-badge&logo=figma&logoColor=white&labelColor=0078d7)
 ![Sketch](https://img.shields.io/badge/Sketch-F7B500.svg?style=for-the-badge&logo=sketch&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-000000.svg?style=for-the-badge&logo=window-terminal&logoColor=white)
