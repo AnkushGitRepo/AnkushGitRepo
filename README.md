@@ -72,7 +72,7 @@ A second-year Computer Science and Information Technology student at [LJ Univers
 | <a href="https://github.com/AnkushGitRepo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnkushGitRepo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ankush's github stats" /></a> | <a href="https://github.com/AnkushGitRepo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkushGitRepo&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushgitrepo&label=Profile%20views&color=38a9ff&style=flat" alt="ankushgitrepo" /> </p>
 <!--
 **AnkushGitRepo/AnkushGitRepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
