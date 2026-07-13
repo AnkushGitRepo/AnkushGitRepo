@@ -1,84 +1,95 @@
-### Hi there, I'm [Ankush Gupta](https://github.com/AnkushGitRepo) 👋
+<div align="center">
 
-A third-year Computer Science and Information Technology student at [LJ Institute of Engineering and Technology](https://ljku.edu.in/), Ahmedabad, India. I have a strong passion for Full-Stack Development, Artificial Intelligence, and Machine Learning, and actively build projects that solve real-world problems. I regularly contribute to open-source projects and share my work on my GitHub profile.
+# Hi, I'm Ankush Gupta 👋
 
-**My Interests**:
-- Full-Stack Web Development (MERN Stack)
-- Artificial Intelligence & Machine Learning
-- REST API Development & System Design
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%C2%B7+MERN+Stack;AI-Powered+Apps+%C2%B7+LLM+Integrations+%C2%B7+n8n;REST+APIs+%C2%B7+System+Design;Building+products+that+solve+real+problems)](https://ankushg.vercel.app)
 
- **I am open to**:
+Third-year CS & IT student at LJ Institute of Engineering and Technology, Ahmedabad.
+I build full-stack products end to end — from responsive React frontends to Node.js APIs — and I'm currently exploring AI-powered applications and automation.
 
-- Collaboration on full-stack and ML projects,
-- Internship opportunities in software development,
-- Open-source contributions.
-  
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://ankushg.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankushgupta18/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankushgupta1806@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AnkushG_18)
 
-## Skills:
+</div>
 
-#### Languages & Frameworks:
+---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## 🚀 About Me
 
-#### Database
+- 🔭 Currently building **full-stack and AI-powered web applications** with the MERN stack
+- 🤖 Exploring **LLM integrations, RAG pipelines, and workflow automation** (LangChain, n8n)
+- 🌱 Strengthening my foundations in **system design and REST API architecture**
+- 💼 Open to **internships, freelance work, and open-source collaboration**
+- 📍 Ahmedabad, Gujarat, India
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+---
 
-#### Tools and Technologies
+## 🛠️ Tech Stack
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.credly.com/earner/earned/badge/279d09f0-6b04-417e-82df-310670f7043a)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+**Languages**
 
-#### IDEs
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-3C3C7E.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
+**Frontend**
 
-## Featured Projects:
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
 
-🔹 **[MarketMitra](https://github.com/AnkushGitRepo/Financial-Dashboard)** - Full-stack financial dashboard with real-time stock tracking, JWT authentication, and data visualization
+**Backend**
 
-🔹 **[BuildMyResume](https://github.com/AnkushGitRepo/BuildMyResume)** - Real-time resume builder with instant preview, Cloudinary integration, and template management
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
 
-🔹 **[ModelHub](https://github.com/AnkushGitRepo/ModelHub)** - ML model serving platform with Django REST APIs for diabetes prediction and fake-news detection
+**Databases**
 
-## Connect with me:
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<p align = "center">
+**Tools & Platforms**
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AnkushG_18) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankushgupta18/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ankushg/)
-[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankushgupta1806@gmail.com)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visualstudiocode&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-</p>
+---
 
-## GitHub Stats:
+## 📜 Certifications
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkushGitRepo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ankush's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkushGitRepo&theme=tokyonight&hide_border=true" alt="Ankush's GitHub Streak" width="48%" />
-</p>
+- **Generative AI for Software Developers** — IBM
+- **Programming with JavaScript** — Meta
+- **Python 3 Programming** — University of Michigan
+- **GitHub Foundations** — GitHub
+- **Object-Oriented Design** — University of Alberta
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkushGitRepo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
-</p>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushgitrepo&label=Profile%20views&color=38a9ff&style=flat" alt="ankushgitrepo" /> </p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AnkushGitRepo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkushGitRepo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Thanks for stopping by — let's build something great together.*
+
+</div>
