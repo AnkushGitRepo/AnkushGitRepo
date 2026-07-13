@@ -78,15 +78,9 @@ I build full-stack products end to end — from responsive React frontends to No
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AnkushGitRepo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkushGitRepo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AnkushGitRepo&theme=vue&hide_border=true&border_radius=4" alt="GitHub Streak" /></a>
 </div>
-
----
 
 <div align="center">
 
