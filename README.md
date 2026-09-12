@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%C2%B7+MERN+Stack;AI-Powered+Apps+%C2%B7+LLM+Integrations+%C2%B7+n8n;REST+APIs+%C2%B7+System+Design;Building+products+that+solve+real+problems)](https://ankushg.vercel.app)
 
-Third-year CS & IT student at LJ Institute of Engineering and Technology, Ahmedabad.
+Final-year CS & IT student at LJ Institute of Engineering and Technology, Ahmedabad.
 I build full-stack products end to end — from responsive React frontends to Node.js APIs — and I'm currently exploring AI-powered applications and automation.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://ankushg.vercel.app)
